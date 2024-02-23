@@ -1,6 +1,8 @@
 # HYR-SENSE: Hyperspectral and Thermal Remote Sensing for Environmental Justice
 ![HYR-SENSE (3)](https://github.com/CU-ESIIL/HYR-SENSE/assets/125080514/e7ea7ff3-e273-4e2a-aa74-496e42a7cb07)
-)
+
+
+
 NASA-SBG and NSF-ESIIL "HYR-SENSE: Hyperspectral and Thermal Remote Sensing for Environmental Justice" program. This training is funded by the NASA award #8ONSSC24KO328, and is subject to the NSF’s terms and conditions.
 
 ## Training details
