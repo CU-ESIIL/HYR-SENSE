@@ -15,11 +15,3 @@ Join [NASA Surface Biology and Geology](https://sbg.jpl.nasa.gov/) (SBG) and [ES
 - This program will be tailored to the interests and needs of the participants while being led by experts in the field from NASA and ESIIL.
 
 Click [here](https://esiil.org/hyr-sense) for more details
-
-## Where to apply
-Please complete the [application](https://docs.google.com/forms/d/e/1FAIpQLSe2g0q7SiMY8Jheb-DyU2bdBcGWXxtXZFTv6u1YLwZF6nWo-w/viewform) by **March 24th, 2024**.
-
-
-<br>
-
-![HYR-SENSE Flyer](images/HYR-SENSE_Training_Flyer.png)
