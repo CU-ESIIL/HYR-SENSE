@@ -11,4 +11,7 @@
 # Windows
 Thumbs.db
 
+# Jupyter
+.ipynb_checkpoints
+
 # NOTE: will need to add more as we develop the code
