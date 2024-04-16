@@ -14,4 +14,7 @@ Thumbs.db
 # Jupyter
 .ipynb_checkpoints
 
+# Workshop data that should not be saved in git
+data/emit
+
 # NOTE: will need to add more as we develop the code
