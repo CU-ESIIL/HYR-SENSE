@@ -1,0 +1,14 @@
+{
+    "NotebookApp": {
+      "allow_origin" : "*",
+        "token":"",
+        "password":"",
+      "nbserver_extensions": {
+        "jupyterlab": true,
+        "mamba_gator": true
+      }
+    },
+    "KernelSpecManager": {
+    	"ensure_native_kernel": false
+    }
+  }  

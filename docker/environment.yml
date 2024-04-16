@@ -1,0 +1,49 @@
+name: hyr-sense
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10
+  - xarray=2024.1.0
+  - dask
+  - dask-gateway
+  - graphviz
+  - distributed
+  - h5py>= 3.9
+  - matplotlib-base
+  - matplotlib
+  - seaborn
+  - hvplot
+  - pyproj
+  - bqplot
+  - zarr
+  - cartopy
+  - pynco
+  - joblib
+  - pystac-client
+  - pydap
+  - ipyleaflet
+  - dask-labextension
+  - pooch
+  - numpy
+  - gdal
+  - rioxarray
+  - geoviews
+  - geopandas
+  - pandas
+  - pyproj
+  - earthaccess>=0.8.2
+  - scikit-image
+  - shapely
+  - holoviews
+  - pqdm
+  - s3fs
+  - nbgitpuller
+  - panel
+  - h5netcdf
+  - pip:
+    - ray
+    - spectral
+    - rasterio
+    - fsspec
+    - branca
+    - hvplot
