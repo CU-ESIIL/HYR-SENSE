@@ -1,5 +1,5 @@
 # HYR-SENSE: Hyperspectral and Thermal Remote Sensing for Environmental Justice
-![](../assets/esiil_content/HYR-SENSE logo.png)
+![](../assets/esiil_content/HYR_SENSE_logo.png)
 
 
 
