@@ -1,6 +1,5 @@
 # HYR-SENSE: Hyperspectral and Thermal Remote Sensing for Environmental Justice
-docs/assets/esiil_content/Hyrsense.jpeg
-![HYR-SENSE (3)](https://github.com/CU-ESIIL/HYR-SENSE/assets/125080514/e7ea7ff3-e273-4e2a-aa74-496e42a7cb07)
+![HYR-SENSE (3)](https://github.com/CU-ESIIL/HYR-SENSE/blob/main/docs/assets/esiil_content/Hyrsense.jpeg)
 
 
 
