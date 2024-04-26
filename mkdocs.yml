@@ -1,5 +1,5 @@
-site_name: 'ESIIL HYR-SENSE workshop'
-site_description: 'Central resource for ESIIL HYR-SENSE workshop'
+site_name: 'HYR-SENSE workshop'
+site_description: 'Central resource for HYR-SENSE workshop'
 site_author: ESIIL and NASA staff
 site_url: https://cu-esiil.github.io/HYR-SENSE
 
@@ -16,25 +16,9 @@ nav:
   - Resources:
        - Code of Conduct: resources/code-of-conduct.md
        - Participant agreement: resources/participant_agreement.md
-       - R and Python bilingualism: resources/bilingualism_md.md
-       - STAC: resources/stac_mount_save.md
-       - Sentinal 2 STAC example: resources/Pull_Sentinal2_l2_data.md
-       - Markdown: resources/markdown_basics.md
        - Cyverse basics: resources/cyverse_basics.md
        - Github basics: resources/github_basics.md
        - Cyverse hacks: resources/cyverse_hacks.md
-       - Working groups: resources/working_groups_and_postdocs.md
-  - Notes:
-       - OASIS orientation: resources/pre_meeting_notes.md
-  - Code documentation:
-       - Data processing: resources/data_processing.md
-       - Data analysis: resources/data_analysis.md
-       - Visualizations: resources/visualizations.md 
-  - Manuscript drafts:
-       - Manuscript: resources/manuscript.md
-  - References:
-       - Notes from readings: resources/notes_from_readings.md
-       - Citations: resources/citations.md
 
 # Configuration
 theme:
