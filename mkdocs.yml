@@ -1,4 +1,4 @@
-site_name: 'ESIIL HYR-SENSE workshop'
+site_name: 'HYR-SENSE workshop'
 site_description: 'Central resource for NASA-ESIIL HYR-SENSE workshop'
 site_author: ESIIL and NASA staff
 site_url: https://cu-esiil.github.io/HYR-SENSE
@@ -13,13 +13,13 @@ copyright: 'Copyright &copy; 2023 University of Colorado Boulder'
 # Page tree
 nav:
   - Home: index.md
-  - Resources:
-       - Code of Conduct: resources/code-of-conduct.md
-       - Participant agreement: resources/participant_agreement.md
-       - Cyverse basics: resources/cyverse_basics.md
+  - Code of Conduct: resources/code-of-conduct.md
+  - Participant agreement: resources/participant_agreement.md
+  - Virtual Pre-event trainings: resources/hyr-sense_pre_trainings.md
+   - Resources:
        - Github basics: resources/github_basics.md
+       - Cyverse basics: resources/cyverse_basics.md
        - Cyverse hacks: resources/cyverse_hacks.md
-       - Virtual Pre-event trainings: resources/hyr-sense_virtual_trainings.md
 
 # Configuration
 theme:
