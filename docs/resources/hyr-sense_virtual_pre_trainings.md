@@ -31,7 +31,7 @@
 - **Audience:** HYR-SENSE participants
 
 ## Using GitHub and Jupyter Notebooks in ESIIL-Cyverse cloud - Office hours
-- **Date:** March 24th, 2024
+- **Date:** May 24th, 2024
 - **Time:** 11 am – 1 pm MT
 - **Instructors:** Ty Tuff and Erick Verleye
 - **Audience:** HYR-SENSE participants
