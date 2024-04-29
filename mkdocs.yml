@@ -19,7 +19,7 @@ nav:
        - Cyverse basics: resources/cyverse_basics.md
        - Github basics: resources/github_basics.md
        - Cyverse hacks: resources/cyverse_hacks.md
-       - Virtual Pre-event trainings: resources/hyr-sense_virtual_trainings.md
+  - Virtual Pre-event trainings: resources/hyr-sense_pre_trainings.md
 
 # Configuration
 theme:
