@@ -1,8 +1,7 @@
-<img src="../assets/hyrsense_facilitators/Ayia_Lindquist.png" alt="Ayia Lindquist" width: 100px; height: auto; margin-right: 10px />
-
+<img src="../assets/hyrsense_facilitators/Ayia_Lindquist.png" alt="Ayia Lindquist"> 
 I am from Saint Croix in the US Virgin Island and raised in Annapolis, MD. I am leading HYR-SENSE from the NASA side, integrating my background in equity and justice work to ensure the course is supportive of indigenous and environmental justice goals. I am really looking forward to making new connections and building this HYR-SENSE community. In my free time you can find me outside, in the soil or the water.
  
-<img src=".../assets/hyrsense_facilitators/Jim_Sanovia.png" alt="Jim Sanovia" 
+<img src=".../assets/hyrsense_facilitators/Jim_Sanovia.png" alt="Jim Sanovia"> 
 
 **Jim Sanovia**  
 Háu Jim emačiyab. Hello, my name is Jim. Sičáŋǧu Lakóta etáŋhaŋ wauwé yeló. I come from the Burnt Thigh or Rosebud people. One of the seven bands/tribes of the Lakóta Oyáte. I was raised in HeSapa or the Black Hills of South Dakota. I am ESIIL’s Tribal Resilience Data Scientist. My interests are remote sensing, geospatial applications, data sovereignty, and working with all Tribes and TCUs bringing EDS to their communities. In my spare time I enjoy collecting rocks/minerals and making leather regalia such as quivers, sheaths, backpacks, pouches, etc.
