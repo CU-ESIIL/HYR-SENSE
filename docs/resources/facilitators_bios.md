@@ -1,12 +1,27 @@
-<table>
-  <tr>
-    <td><img src="../assets/hyrsense_facilitators/Ayia_Lindquist.png" alt="Ayia Lindquist" width="100" height="67" style="margin-right: 10px;"/></td>
-    <td>
-      <strong>Ayia Lindquist</strong><br>
-      I am from Saint Croix in the US Virgin Island and raised in Annapolis, MD. I am leading HYR-SENSE from the NASA side, integrating my background in equity and justice work to ensure the course is supportive of indigenous and environmental justice goals. I am really looking forward to making new connections and building this HYR-SENSE community. In my free time you can find me outside, in the soil or the water.
-    </td>
-  </tr>
-</table>
+<style>
+  .profile-info {
+    display: flex;
+    align-items: center;
+    border: none;
+  }
+  .profile-info img {
+    width: 100px; /* Set this to the desired width */
+    height: auto; /* This will scale the height automatically */
+    margin-right: 10px;
+  }
+  .profile-info div {
+    border: none;
+  }
+</style>
+
+<div class="profile-info">
+  <img src="../assets/hyrsense_facilitators/Ayia_Lindquist.png" alt="Ayia Lindquist">
+  <div>
+    <strong>Ayia Lindquist</strong><br>
+    I am from Saint Croix in the US Virgin Island and raised in Annapolis, MD. I am leading HYR-SENSE from the NASA side, integrating my background in equity and justice work to ensure the course is supportive of indigenous and environmental justice goals. I am really looking forward to making new connections and building this HYR-SENSE community. In my free time you can find me outside, in the soil or the water.
+  </div>
+</div>
+
 
 
 
