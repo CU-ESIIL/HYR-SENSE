@@ -1,4 +1,4 @@
-<img src="../assets/hyrsense_facilitators/Ayia_Lindquist.png" alt="Ayia Lindquist"> width: 100px; height: auto; margin-right: 10px />
+<img src="../assets/hyrsense_facilitators/Ayia_Lindquist.png" alt="Ayia Lindquist" width: 100px; height: auto; margin-right: 10px />
 
 I am from Saint Croix in the US Virgin Island and raised in Annapolis, MD. I am leading HYR-SENSE from the NASA side, integrating my background in equity and justice work to ensure the course is supportive of indigenous and environmental justice goals. I am really looking forward to making new connections and building this HYR-SENSE community. In my free time you can find me outside, in the soil or the water.
  
