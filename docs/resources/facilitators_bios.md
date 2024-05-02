@@ -1,4 +1,4 @@
-<img src="https://github.com/CU-ESIIL/HYR-SENSE/blob/main/docs/assets/hyrsense_facilitators/Ayia_Lindquist.jpg" alt="Ayia Lindquist" width= 250in height= 200in align= left margin-right= 10px />
+<img src="https://github.com/CU-ESIIL/HYR-SENSE/blob/main/docs/assets/hyrsense_facilitators/Ayia_Lindquist.jpg" alt="Ayia Lindquist" width= 250in height= 1800in align= left margin-right= 10px />
 
 **Ayia Lindquist**  
 I am from Saint Croix in the US Virgin Island and raised in Annapolis, MD. I am leading HYR-SENSE from the NASA side, integrating my background in equity and justice work to ensure the course is supportive of indigenous and environmental justice goals. I am really looking forward to making new connections and building this HYR-SENSE community. In my free time you can find me outside, in the soil or the water.
