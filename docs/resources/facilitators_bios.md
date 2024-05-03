@@ -27,52 +27,30 @@
 | :---: | :--- |
 
 
-<img src="assets/hyrsense_facilitators/Jesse_Barber.jpg" alt="Jesse Barber" style="width: 2.5in; height: 2.5in; float: left; margin-right: 10px;" />
+| ![Jesse Barber](../assets/hyrsense_facilitators/Jesse_Barber.png) | **Jesse Barber**<br>Jesse Barber obtained his BS in Physics from Virginia Tech in 2018; During which he assisted in many of the physics research labs on campus, fostering his interest in optical physics and engineering. Two years later he graduated with a Masters in Physics from the University At Buffalo, pursuing experimental optics throughout his graduate education. In the Fall of 2020, He found a career with Science Systems and Applications Inc (SSAI) working at the NASA Goddard Space Flight Center as an Optical Calibration Engineer in their Biospheric Science Laboratory. Jesse runs the Field Calibration Laboratory and specializes in the operation and calibration of radiometric non-imaging spectrometers. |
+| :---: | :--- |
 
-**Jesse Barber**   
-Jesse Barber obtained his BS in Physics from Virginia Tech in 2018; During which he assisted in many of the physics research labs on campus, fostering his interest in optical physics and engineering. Two years later he graduated with a Masters in Physics from the University At Buffalo, pursuing experimental optics throughout his graduate education. In the Fall of 2020, He found a career with Science Systems and Applications Inc (SSAI) working at the NASA Goddard Space Flight Center as an Optical Calibration Engineer in their Biospheric Science Laboratory. Jesse runs the Field Calibration Laboratory and specializes in the operation and calibration of radiometric non-imaging spectrometers.
+| ![Katya Jay](../assets/hyrsense_facilitators/Katya_Jay.png) | **Katya Jay**<br>I am a postdoctoral research associate at ESIIL with a background in ecosystem ecology and integrating ecosystem modeling tools with ground observations to understand vegetation responses to global change. At ESIIL, I’m currently investigating woody expansion into herbaceous alpine tundra ecosystems and I’m excited to be learning new remote sensing tools to incorporate into my research. I grew up in the Pacific Northwest (outside of Portland, Oregon), where my love of nature and mountains inspired me to pursue a career in ecology. Outside of work, I love exploring the Colorado mountains via foot, bike, and skis, as well as going camping with friends. |
+| :---: | :--- |
 
+| ![Kelly Luis](../assets/hyrsense_facilitators/Kelly_Luis.png) | **Kelly Luis**<br>I was born and raised on Maui, Hawai’i. I’m a kanaka maoli scientist at NASA’s Jet Propulsion Laboratory, and serve as EMIT’s Aquatic Applications lead, SBG’s VSWIR aquatic coordinator and Collaborations co-lead. I regularly think about how similar earth observations by my ancestors and remote sensing technologies are. My passion rests in finding creative and equitable approaches for the co-production of environmental knowledge. When I’m not working, you can find me snuggling with cats (Bumper and Pepper) or working in my garden. |
+| :---: | :--- |
 
-<img src="assets/hyrsense_facilitators/Katya_Jay.jpg" alt="Katya Jay" style="width: 2.5in; height: 2.5in; float: left; margin-right: 10px;" />
+| ![Mahsa Jami](../assets/hyrsense_facilitators/Mahsa_Jami.png) | **Mahsa Jami**<br>Mahsa is a data scientist working at NASA’s Land Processed Distributed Active Archive Center (LP DAAC) at the USGS Earth Resources Observation and Science (EROS) Center in Sioux Falls, SD. She joined LP DAAC in early 2020 and has been supporting LP DAAC missions and data users directly and through creation of tutorials and other learning materials. She also supports and contributes to NASA’s Application for Extracting and Exploring Analysis-Ready Samples (AppEEARS), an application designed to make accessing and subsetting Earth science remote sensing data easy and straightforward. Outside of work, she loves to cook and spend time in nature with her family and friends. |
+| :---: | :--- |
 
-**Katya Jay**  
-I am a postdoctoral research associate at ESIIL with a background in ecosystem ecology and integrating ecosystem modeling tools with ground observations to understand vegetation responses to global change. At ESIIL, I’m currently investigating woody expansion into herbaceous alpine tundra ecosystems and I’m excited to be learning new remote sensing tools to incorporate into my research. I grew up in the Pacific Northwest (outside of Portland, Oregon), where my love of nature and mountains inspired me to pursue a career in ecology. Outside of work, I love exploring the Colorado mountains via foot, bike, and skis, as well as going camping with friends.
+| ![Nate Quarderer](../assets/hyrsense_facilitators/Nate_Quarderer.png) | **Nate Quarderer**<br>Education Director; Earth Lab/ESIIL. Nate is an educational researcher currently focused on the topics of data science education, and on how people come to know about climate change and why they hold a particular set of beliefs. At Earth Lab and ESIIL, Nate helped organize and implement the Earth Data Science Corps and ESIIL Stars programs, leading assessment and evaluation efforts. He also helps oversee the Earth Data Analytics--Foundations Online Professional Graduate Certificate. When he’s not working with students, Nate likes to get outside with this dog, Bruce. |
+| :---: | :--- |
 
+| ![Nayani Ilangakoon](../assets/hyrsense_facilitators/Nayani_Ilangakoon.png) | **Nayani Ilangakoon**<br>Nayani is a research scientist at Earth Lab, University of Colorado Boulder specialized in remote sensing (lidar) and remote sensing applications for forest carbon and ecosystem transformation monitoring. Growing up in Sri Lanka, a tropical island in the Indian Ocean and now living in Colorado with evergreen forests, mountains, and snow, she brings her knowledge about diverse ecosystems and their responses to various changes including climate warming with the use of eyes in the sky (Spaceborne remote sensing). Outside of work, she loves experimenting with new cuisine from around the world. |
+| :---: | :--- |
 
-<img src="assets/hyrsense_facilitators/Kelly_Luis.jpg" alt="Kelly Luis" style="width: 2.5in; height: 2.5in; float: left; margin-right: 10px;" />
+| ![Shawn Serbin](../assets/hyrsense_facilitators/Shawn_Serbin.png) | **Shawn Serbin**<br>I grew up in Monroe Michigan, a small-ish town not far from the Ohio border, and still have family in Michigan and across the upper Midwest that we regularly visit. In the fall of 2023 I started my new role as an Earth Scientist at NASA Goddard where I focus on using ground measurements, remote sensing technologies and computer models to understand the role of the land surface and vegetation on terrestrial carbon, water, and energy cycling and connections with the atmosphere. I am looking forward to the course and the opportunity to work with students to demonstrate how the tools and remote sensing data can bring new perspectives and insights into the Earth system. When I am not traveling for work or analyzing data I enjoy kayaking, skiing, hiking or really any outdoor activity, including teaching our young son Elliott how to enjoy and respect nature. |
+| :---: | :--- |
 
-**Kelly Luis**  
-I was born and raised on Maui, Hawai’i. I’m a kanaka maoli scientist at NASA’s Jet Propulsion Laboratory, and serve as EMIT’s Aquatic Applications lead, SBG’s VSWIR aquatic coordinator and Collaborations co-lead. I regularly think about how similar earth observations by my ancestors and remote sensing technologies are. My passion rests in finding creative and equitable approaches for the co-production of environmental knowledge. When I’m not working, you can find me snuggling with cats (Bumper and Pepper) or working in my garden.
+| ![Ben Poulter](../assets/hyrsense_facilitators/Ben_Poulter.png) | **Ben Poulter**<br>Ben is a research scientist in the Earth Sciences Division at the NASA Goddard Space Flight Center. His research team uses dynamic global vegetation models to explore climate and land-use impacts on the global carbon cycle. Ben co-lead the science and applications team for the NASA Surface Biology and Geology mission, developing and implementing model workflows to quantify uncertainty in reflectance retrievals, algorithms and propagation to carbon and hydrologic processes. He is looking forward to introducing students to tools that provide access to remote sensing data to solve pressing ecological questions. He’s currently hooked on Merlin and documenting bird sightings in ebird. |
+| :---: | :--- |
 
-
-<img src="assets/hyrsense_facilitators/Mahsa_Jami.jpg" alt="Mahsa Jami" style="width: 2.5in; height: 2.5in; float: left; margin-right: 10px;" />
-
-**Mahsa Jami**  
-Mahsa is a data scientist working at NASA’s Land Processed Distributed Active Archive Center (LP DAAC) at the USGS Earth Resources Observation and Science (EROS) Center in Sioux Falls, SD. She joined LP DAAC in early 2020 and has been supporting LP DAAC missions and data users directly and through creation of tutorials and other learning materials. She also supports and contributes to NASA’s Application for Extracting and Exploring Analysis-Ready Samples (AppEEARS), an application designed to make accessing and subsetting Earth science remote sensing data easy and straightforward. Outside of work, she loves to cook and spend time in nature with her family and friends.
-
-
-<img src="assets/hyrsense_facilitators/Nate_Quarderer.jpg" alt="Nate Quarderer" style="width: 2.5in; height: 2.5in; float: left; margin-right: 10px;" />
-
-**Nate Quarderer**  
-Education Director; Earth Lab/ESIIL. Nate is an educational researcher currently focused on the topics of data science education, and on how people come to know about climate change and why they hold a particular set of beliefs. At Earth Lab and ESIIL, Nate helped organize and implement the Earth Data Science Corps and ESIIL Stars programs, leading assessment and evaluation efforts. He also helps oversee the Earth Data Analytics--Foundations Online Professional Graduate Certificate. When he’s not working with students, Nate likes to get outside with this dog, Bruce.
-
-
-<img src="assets/hyrsense_facilitators/Nayani_Ilangakoon.jpg" alt="Nayani Ilangakoon" style="width: 2.5in; height: 2.5in; float: left; margin-right: 10px;" />
-
-**Nayani Ilangakoon**  
-Nayani is a research scientist at Earth Lab, University of Colorado Boulder specialized in remote sensing (lidar) and remote sensing applications for forest carbon and ecosystem transformation monitoring. Growing up in Sri Lanka, a tropical island in the Indian Ocean and now living in Colorado with evergreen forests, mountains, and snow, she brings her knowledge about diverse ecosystems and their responses to various changes including climate warming with the use of eyes in the sky (Spaceborne remote sensing). Outside of work, she loves experimenting with new cuisine from around the world.
-
-
-<img src="assets/hyrsense_facilitators/Shawn_Serbin.jpg" alt="Shawn Serbin" style="width: 2.5in; height: 2.5in; float: left; margin-right: 10px;" />
-
-**Shawn Serbin**  
-I grew up in Monroe Michigan, a small-ish town not far from the Ohio border, and still have family in Michigan and across the upper Midwest that we regularly visit. In the fall of 2023 I started my new role as an Earth Scientist at NASA Goddard where I focus on using ground measurements, remote sensing technologies and computer models to understand the role of the land surface and vegetation on terrestrial carbon, water, and energy cycling and connections with the atmosphere. I am looking forward to the course and the opportunity to work with students to demonstrate how the tools and remote sensing data can bring new perspectives and insights into the Earth system. When I am not traveling for work or analyzing data I enjoy kayaking, skiing, hiking or really any outdoor activity, including teaching our young son Elliott how to enjoy and respect nature.
-
-
-<img src="assets/hyrsense_facilitators/Ben_Poulter.jpg" alt="Ben Poulter" style="width: 2.5in; height: 2.5in; float: left; margin-right: 10px;" />
-
-**Ben Poulter**  
-Ben is a research scientist in the Earth Sciences Division at the NASA Goddard Space Flight Center. His research team uses dynamic global vegetation models to explore climate and land-use impacts on the global carbon cycle. Ben co-lead the science and applications team for the NASA Surface Biology and Geology mission, developing and implementing model workflows to quantify uncertainty in reflectance retrievals, algorithms and propagation to carbon and hydrologic processes. He is looking forward to introducing students to tools that provide access to remote sensing data to solve pressing ecological questions. He’s currently hooked on Merlin and documenting bird sightings in ebird.
 
 
 
