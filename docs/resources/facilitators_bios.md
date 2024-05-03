@@ -11,7 +11,7 @@
 
 
 
- ![Jim Sanovia](.../assets/hyrsense_facilitators/Jim_Sanovia.png) 
+ ![Jim Sanovia](../assets/hyrsense_facilitators/Jim_Sanovia.png) 
 
 **Jim Sanovia**  
 Háu Jim emačiyab. Hello, my name is Jim. Sičáŋǧu Lakóta etáŋhaŋ wauwé yeló. I come from the Burnt Thigh or Rosebud people. One of the seven bands/tribes of the Lakóta Oyáte. I was raised in HeSapa or the Black Hills of South Dakota. I am ESIIL’s Tribal Resilience Data Scientist. My interests are remote sensing, geospatial applications, data sovereignty, and working with all Tribes and TCUs bringing EDS to their communities. In my spare time I enjoy collecting rocks/minerals and making leather regalia such as quivers, sheaths, backpacks, pouches, etc.
