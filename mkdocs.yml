@@ -11,13 +11,6 @@ edit_uri: edit/main/docs/
 copyright: 'Copyright &copy; 2023 University of Colorado Boulder'
 
 # Page tree
-
-nav:
-  - Home: index.md
-  - Pre-Summit Virtual Trainings: 
-       - Overview: virtual-meetings.md
-       - Head in the clouds:
-       
 nav:
   - Home: index.md
   - Virtual Pre-event trainings: resources/hyr-sense_virtual_pre_trainings.md
