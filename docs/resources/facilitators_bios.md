@@ -51,7 +51,8 @@
 | ![Ben Poulter](../assets/hyrsense_facilitators/Ben_Poulter.png) | **Ben Poulter**<br>Ben is a research scientist in the Earth Sciences Division at the NASA Goddard Space Flight Center. His research team uses dynamic global vegetation models to explore climate and land-use impacts on the global carbon cycle. Ben co-lead the science and applications team for the NASA Surface Biology and Geology mission, developing and implementing model workflows to quantify uncertainty in reflectance retrievals, algorithms and propagation to carbon and hydrologic processes. He is looking forward to introducing students to tools that provide access to remote sensing data to solve pressing ecological questions. He’s currently hooked on Merlin and documenting bird sightings in ebird. |
 | :---: | :--- |
 
-
+| ![Ty Tuff](../assets/hyrsense_facilitators/Ty_Tuff.png) | **Ty Tuff**<br>Ty is the Friendly Neighborhood Data Scientist at the Environmental Data Innovation and Inclusion Lab (ESIIL) besed at the University of Colorado at Boulder.  |
+| :---: | :--- |
 
 
 
