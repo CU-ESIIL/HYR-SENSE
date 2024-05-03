@@ -3,7 +3,7 @@
 | :---: | :--- |
 
 
-| ![Cibele Amaral](../assets/hyrsense_facilitators/Cibele_Amaral.png) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | **Cibele Amaral**<br>I am from Sao Paulo, Brazil, and serve as the Interim ESIIL Analytics Director. I oversee the HYR-SENSE program and the associated ESIIL team efforts. My passion lies in exploring multiple remote sensing technologies to support our understanding of Earth's processes and our well-being in harmony with nature. In my free time, you can find me running, hiking with family, or happily preparing colorful meals. |
+| ![Cibele Amaral](../assets/hyrsense_facilitators/Cibele_Amaral.png) | **Cibele Amaral**<br>I am from Sao Paulo, Brazil, and serve as the Interim ESIIL Analytics Director. I oversee the HYR-SENSE program and the associated ESIIL team efforts. My passion lies in exploring multiple remote sensing technologies to support our understanding of Earth's processes and our well-being in harmony with nature. In my free time, you can find me running, hiking with family, or happily preparing colorful meals. |
 | :---: | :--- |
 
 
