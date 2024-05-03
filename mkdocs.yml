@@ -35,10 +35,13 @@ theme:
   logo: 'assets/esiil_content/ESIIL_logo.png'
   favicon: 'assets/esiil_content/favicon.ico'
   # setting features for the navigation tab
+  toc:
+    position: right
   features:
-    - navigation.sections
     - navigation.instant
     - navigation.tracking
+    - navigation.tabs
+    - navigation.tabs.sticky
     - navigation.indexes
     - navigation.top
     - toc.integrate
@@ -60,6 +63,7 @@ theme:
       toggle:
         icon: material/weather-sunny
         name: Switch to system preference
+
 
 # Options
 extra:
