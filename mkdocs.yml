@@ -11,16 +11,25 @@ edit_uri: edit/main/docs/
 copyright: 'Copyright &copy; 2023 University of Colorado Boulder'
 
 # Page tree
+
 nav:
   - Home: index.md
-  - Code of Conduct: resources/code-of-conduct.md
-  - Participant agreement: resources/participant_agreement.md
+  - Pre-Summit Virtual Trainings: 
+       - Overview: virtual-meetings.md
+       - Head in the clouds:
+       
+nav:
+  - Home: index.md
   - Virtual Pre-event trainings: resources/hyr-sense_virtual_pre_trainings.md
-  - Facilitators: resources/facilitators_bios.md
+       - Day 1:
+            - Github basics: resources/github_basics.md
+            - Cyverse basics: resources/cyverse_basics.md
+            - Cyverse hacks: resources/cyverse_hacks.md
   - Resources:
-       - Github basics: resources/github_basics.md
-       - Cyverse basics: resources/cyverse_basics.md
-       - Cyverse hacks: resources/cyverse_hacks.md
+       - Code of Conduct: resources/code-of-conduct.md
+       - Participant agreement: resources/participant_agreement.md
+  - Facilitators: resources/facilitators_bios.md
+      
 
 # Configuration
 theme:
