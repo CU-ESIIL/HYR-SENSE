@@ -13,14 +13,17 @@ copyright: 'Copyright &copy; 2023 University of Colorado Boulder'
 # Page tree
 nav:
   - Home: index.md
-  - Code of Conduct: resources/code-of-conduct.md
-  - Participant agreement: resources/participant_agreement.md
-  - Virtual Pre-event trainings: resources/hyr-sense_virtual_pre_trainings.md
-  - Facilitators: resources/facilitators_bios.md
+  - Virtual Pre-event trainings: 
+       - Day 1:
+          - Overview: resources/hyr-sense_virtual_pre_trainings.md
+          - Github basics: resources/github_basics.md
+          - Cyverse basics: resources/cyverse_basics.md
+          - Cyverse hacks: resources/cyverse_hacks.md
   - Resources:
-       - Github basics: resources/github_basics.md
-       - Cyverse basics: resources/cyverse_basics.md
-       - Cyverse hacks: resources/cyverse_hacks.md
+       - Code of Conduct: resources/code-of-conduct.md
+       - Participant agreement: resources/participant_agreement.md
+  - Facilitators: resources/facilitators_bios.md
+      
 
 # Configuration
 theme:
@@ -32,10 +35,13 @@ theme:
   logo: 'assets/esiil_content/ESIIL_logo.png'
   favicon: 'assets/esiil_content/favicon.ico'
   # setting features for the navigation tab
+  toc:
+    position: right
   features:
-    - navigation.sections
     - navigation.instant
     - navigation.tracking
+    - navigation.tabs
+    - navigation.tabs.sticky
     - navigation.indexes
     - navigation.top
     - toc.integrate
@@ -58,12 +64,56 @@ theme:
         icon: material/weather-sunny
         name: Switch to system preference
 
+
 # Options
 extra:
   social:
     - icon: fontawesome/brands/github
      # link: https://github.com/cu-esiil/
-
+     
+# Extensions
+markdown_extensions:
+  - admonition
+  - abbr
+  - attr_list
+  - def_list
+  - footnotes
+  - meta
+  - md_in_html
+  - toc:
+      permalink: true
+  - pymdownx.arithmatex:
+      generic: true
+  - pymdownx.betterem:
+      smart_enable: all
+  - pymdownx.caret
+  - pymdownx.critic
+  - pymdownx.details
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+  - pymdownx.highlight
+  - pymdownx.inlinehilite
+  - pymdownx.keys
+  - pymdownx.magiclink:
+      repo_url_shorthand: true
+      user: squidfunk
+      repo: mkdocs-material
+  - pymdownx.mark
+  - pymdownx.smartsymbols
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+        - name: collapsible
+          class: collapsible
+          format: !!python/name:pymdownx.superfences.fence_div_format
+  - pymdownx.tabbed
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.tilde
+  
 extra_css:
   - stylesheets/extra.css
 
