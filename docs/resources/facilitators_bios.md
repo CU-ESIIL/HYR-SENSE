@@ -3,6 +3,8 @@
 | :---: | :--- |
 
 
+| ![Cibele Amaral](../assets/hyrsense_facilitators/Cibele_Amaral.png) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | **Cibele Amaral**<br>I am from Sao Paulo, Brazil, and serve as the Interim ESIIL Analytics Director. I oversee the HYR-SENSE program and the associated ESIIL team efforts. My passion lies in exploring multiple remote sensing technologies to support our understanding of Earth's processes and our well-being in harmony with nature. In my free time, you can find me running, hiking with family, or happily preparing colorful meals. |
+| :---: | :--- |
 
 
 | ![Jim Sanovia](../assets/hyrsense_facilitators/Jim_Sanovia.png) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | **Jim Sanovia**<br>Háu Jim emačiyab. Hello, my name is Jim. Sičáŋǧu Lakóta etáŋhaŋ wauwé yeló. I come from the Burnt Thigh or Rosebud people. One of the seven bands/tribes of the Lakóta Oyáte. I was raised in HeSapa or the Black Hills of South Dakota. I am ESIIL’s Tribal Resilience Data Scientist. My interests are remote sensing, geospatial applications, data sovereignty, and working with all Tribes and TCUs bringing EDS to their communities. In my spare time I enjoy collecting rocks/minerals and making leather regalia such as quivers, sheaths, backpacks, pouches, etc. |
@@ -73,10 +75,6 @@ I grew up in Monroe Michigan, a small-ish town not far from the Ohio border, and
 Ben is a research scientist in the Earth Sciences Division at the NASA Goddard Space Flight Center. His research team uses dynamic global vegetation models to explore climate and land-use impacts on the global carbon cycle. Ben co-lead the science and applications team for the NASA Surface Biology and Geology mission, developing and implementing model workflows to quantify uncertainty in reflectance retrievals, algorithms and propagation to carbon and hydrologic processes. He is looking forward to introducing students to tools that provide access to remote sensing data to solve pressing ecological questions. He’s currently hooked on Merlin and documenting bird sightings in ebird.
 
 
-<img src="assets/hyrsense_facilitators/Cibele_Amaral.jpg" alt="Cibele Amaral" style="width: 2.5in; height: 2.5in; float: left; margin-right: 10px;" />
-
-**Cibele Amaral**  
-I am from Sao Paulo, Brazil, and serve as the Interim ESIIL Analytics Director. I oversee the HYR-SENSE program and the associated ESIIL team efforts. My passion lies in exploring multiple remote sensing technologies to support our understanding of Earth's processes and our well-being in harmony with nature. In my free time, you can find me running, hiking with family, or happily preparing colorful meals.
 
 
 
