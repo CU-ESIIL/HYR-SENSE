@@ -1,5 +1,7 @@
 # Virtual Pre-Event Trainings
 
+**Zoom Meeting Link:** [https://cuboulder.zoom.us/j/96094971688](https://cuboulder.zoom.us/j/96094971688)
+
 ## Collaborating in ESIIL-Cyverse cloud
 - **Date:** March 6th, 2024
 - **Time:** 12-1 pm MT
