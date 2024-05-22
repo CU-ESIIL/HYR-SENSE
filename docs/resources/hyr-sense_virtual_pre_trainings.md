@@ -19,6 +19,7 @@
 - **Time:** 11 am - 2 pm MT
 - **Instructors:** Ty Tuff and Erick Verleye
 - **Audience:** HYR-SENSE participants
+- **Recording:** [https://youtu.be/PZjg2r1PItc](https://youtu.be/PZjg2r1PItc)
 
 ## What to expect and how to prepare for HYR-SENSE
 - **Date:** May 22nd, 2024
