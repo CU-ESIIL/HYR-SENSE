@@ -1,5 +1,7 @@
 # Virtual Pre-Event Trainings
 
+**Zoom Meeting Link:** [https://cuboulder.zoom.us/j/96094971688](https://cuboulder.zoom.us/j/96094971688)
+
 ## Collaborating in ESIIL-Cyverse cloud
 - **Date:** March 6th, 2024
 - **Time:** 12-1 pm MT
@@ -17,6 +19,7 @@
 - **Time:** 11 am - 2 pm MT
 - **Instructors:** Ty Tuff and Erick Verleye
 - **Audience:** HYR-SENSE participants
+- **Recording:** [https://youtu.be/PZjg2r1PItc](https://youtu.be/PZjg2r1PItc)
 
 ## What to expect and how to prepare for HYR-SENSE
 - **Date:** May 22nd, 2024
