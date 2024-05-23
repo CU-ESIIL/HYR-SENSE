@@ -32,6 +32,7 @@
 - **Time:** 12-1 pm MT
 - **Instructors:** Ayia Lindquist, Rachel Lieber and Casey Jenson
 - **Audience:** HYR-SENSE participants
+- **Recording:** [https://youtu.be/_VTR4B2ZNus](https://youtu.be/_VTR4B2ZNus)
 
 ## Using GitHub and Jupyter Notebooks in ESIIL-Cyverse cloud - Office hours
 - **Date:** May 24th, 2024
