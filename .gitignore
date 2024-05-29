@@ -15,6 +15,6 @@ Thumbs.db
 .ipynb_checkpoints
 
 # Workshop data that should not be saved in git
-data/emit
+data/
 
 # NOTE: will need to add more as we develop the code
