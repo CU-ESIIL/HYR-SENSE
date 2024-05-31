@@ -91,6 +91,7 @@ This Agreement, along with the Official Rules, and the Event Code of Conduct, co
 
 https://github.com/nasa/smd-open-science-guidelines/blob/main/OSS_Guidance/Science_Events.md
 https://github.com/nasa/smd-open-science-guidelines/blob/main/OSS_Guidance/Software_Management_Sharing.md
+https://www.earthdata.nasa.gov/engage/open-data-services-and-software/esds-open-source-policy
 
 # Severability
 
