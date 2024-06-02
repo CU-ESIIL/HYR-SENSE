@@ -20,9 +20,10 @@ nav:
           - Cyverse hacks: resources/cyverse_hacks.md
   - Resources:
        - Code of Conduct: resources/code-of-conduct.md
-       - Participant agreement: resources/participant_agreement.md
+       - Material Sharing: resources/Science_Events.md
   - Facilitators: resources/facilitators_bios.md
-      
+  - Participants: resources/participants_bios.md
+  - Speakers/ Panelists: resources/speakers_bios.md
 
 # Configuration
 theme:
