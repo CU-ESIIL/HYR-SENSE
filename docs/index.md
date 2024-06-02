@@ -15,7 +15,7 @@ Join [NASA Surface Biology and Geology](https://sbg.jpl.nasa.gov/) (SBG) and [ES
 Click [here](https://esiil.org/hyr-sense) for more details
 
 ## Agenda
-![Agenda](../assets/esiil_content/Hyrsense_Agenda.png) 
+![](./assets/esiil_content/Hyrsense_Agenda.png) 
 
 ## Venue Information
 HYR-SENSE will be held at the University of Colorado Boulder East Campus SEEC Building (4001 Discovery Dr, Boulder, CO 80303). 
