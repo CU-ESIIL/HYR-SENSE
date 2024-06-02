@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/747801950.svg)](https://zenodo.org/doi/10.5281/zenodo.11166886)
+
 # HYR-SENSE: Hyperspectral and Thermal Remote Sensing for Environmental Justice
 ![HYR-SENSE (3)](https://github.com/CU-ESIIL/HYR-SENSE/blob/main/docs/assets/esiil_content/Hyrsense.jpeg)
 

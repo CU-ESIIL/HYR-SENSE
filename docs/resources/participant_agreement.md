@@ -89,6 +89,10 @@ This Agreement, along with the Official Rules, and the Event Code of Conduct, co
 2. The Official Rules
 3. The Event Code of Conduct
 
+https://github.com/nasa/smd-open-science-guidelines/blob/main/OSS_Guidance/Science_Events.md
+https://github.com/nasa/smd-open-science-guidelines/blob/main/OSS_Guidance/Software_Management_Sharing.md
+https://www.earthdata.nasa.gov/engage/open-data-services-and-software/esds-open-source-policy
+
 # Severability
 
 The invalidity, illegality, or unenforceability of any one or more phrases, sentences, clauses, or sections in this Agreement does not affect the remaining portions of this Agreement.
