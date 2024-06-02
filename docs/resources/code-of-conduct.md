@@ -1,4 +1,4 @@
-# HYR-SENSE Code of Conduct and Respectful Inclusive Collaboration Guidelines
+# Code of Conduct and Respectful Inclusive Collaboration Guidelines
 
 The Environmental Data Science Innovation & Inclusion Lab (ESIIL) and the NASA-ESIIL HYR-SENSE team are committed to building, maintaining, and fostering an inclusive, kind, collaborative, and diverse transdisciplinary environmental data science community, whose members feel welcome, supported, and safe to contribute ideas and knowledge.
 
@@ -198,6 +198,6 @@ By participating in this event, you agree to abide by this code of conduct and u
 
 **Thank you for your cooperation in making HYR-SENSE a welcoming event for all. Have fun!**
 
-### Source
+## Reference
 This code of conduct was adapted from "Batchelor, R.L., Sullivan, S.M., Iglesias, V., Nagy, R.C., Parker, J.N., Stavros, E.N., Gold, A.U., Balch, J.K. 2024. *ESIIL Code of Conduct and Inclusive Collaboration Guidelines.* Environmental Data Science Innovation and Inclusion Lab (ESIIL). https://doi.org/10.25810/2rdy-c188"
 
