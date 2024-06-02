@@ -1,8 +1,8 @@
-# Code of Conduct and Respectful Inclusive Collaboration Guidelines
+# HYR-SENSE Code of Conduct and Respectful Inclusive Collaboration Guidelines
 
 CIRES Earth Lab and Environmental Data Science Innovation & Inclusion Lab (ESIIL) are committed to building, maintaining, and fostering an inclusive, kind, collaborative, and diverse transdisciplinary environmental data science community, whose members feel welcome, supported, and safe to contribute ideas and knowledge.
 
-The HYR-SENSE program will follow all aspects of the ESIIL Code of Conduct (below).
+The **HYR-SENSE program** will follow all aspects of the ESIIL Code of Conduct (below).
 
 **All community members are responsible for creating this culture, embodying our values, welcoming diverse perspectives and ways of knowing, creating safe inclusive spaces, and conducting ethical science as guided by FAIR (Findable, Accessible, Interoperable, Reusable) and CARE (Collective Benefit, Authority to Control, Responsibility, and Ethics) principles for scientific and Indigenous data management, governance, and stewardship.**
 
@@ -20,7 +20,7 @@ These guidelines outline behavior expectations for ESIIL community members. Your
 
 # Behavior Agreements
 
-ESIIL community members are expected to act professionally and respectfully in all activities, such that each person, regardless of gender, gender identity or expression, sexual orientation, disability, physical appearance, age, body size, race, religion, national origin, ethnicity, level of experience, language fluency, political affiliation, veteran status, pregnancy, country of origin, and any other characteristic protected under state or federal law, feels safe and welcome in our activities and community. We gain strength from diversity and actively seek participation from those who enhance it.
+ESIIL community members and collaborators are expected to act professionally and respectfully in all activities, such that each person, regardless of gender, gender identity or expression, sexual orientation, disability, physical appearance, age, body size, race, religion, national origin, ethnicity, level of experience, language fluency, political affiliation, veteran status, pregnancy, country of origin, and any other characteristic protected under state or federal law, feels safe and welcome in our activities and community. We gain strength from diversity and actively seek participation from those who enhance it.
 
 In order to garner the benefits of a diverse community and to reach the full potential of our mission and charge, ESIIL participants must be allowed to develop a sense of belonging and trust within a respectful, inclusive, and collaborative culture. Guiding behaviors that contribute to this culture include, but are not limited to:
 
@@ -48,7 +48,7 @@ In order to garner the benefits of a diverse community and to reach the full pot
 
 - **Commit to ongoing learning** – the move toward inclusive, equitable, and just environmental data science is a collective journey. Continue to learn about and apply practices of inclusion, anti-racism, bystander intervention, and cultural sensitivity. None of us is perfect; all of us will, from time to time, fail to live up to our own high standards. Being perfect is not what matters; owning our mistakes and committing to clear and persistent efforts to grow and improve is.
 
-# Being Curious
+## Being Curious
 
 - **Check your presumptions** – we each bring our own ideas and assumptions about how the world should and does work – what are yours, and how do they affect how you interact with others? How do they shape your perception of new ideas?
 
@@ -74,7 +74,7 @@ In order to garner the benefits of a diverse community and to reach the full pot
 
 **Finally, speak up if you experience or notice a dangerous situation, or someone in distress!**
 
-# Code of Conduct: Unacceptable behaviors
+## Code of Conduct: Unacceptable behaviors
 
 We adopt the full Code of Conduct of our home institution, the University of Colorado, details of which are found [here](#). To summarize, examples of unacceptable and reportable behaviors include, but are not limited to:
 
@@ -102,7 +102,7 @@ If there is a clear violation of the code of conduct during an ESIIL event—for
 
 For smaller incidents that might be settled with a brief conversation, you may choose to contact the person in question or set up a (video) conversation to discuss how the behavior affected you. Please use this approach only if you feel comfortable; you do not have to carry the weight of addressing these issues yourself. If you are interested in this option but unsure how to go about it, please contact the ESIIL DEI lead, Susan Sullivan, first—she will have advice on how to make the conversation happen and is available to join you in a conversation as requested.
 
-# Reporting Process and Consequences
+## Reporting Process and Consequences
 
 We take any reports of Code of Conduct violations seriously, and aim to support those who are impacted and ensure that problematic behavior doesn’t happen again.
 
@@ -139,7 +139,7 @@ If you want more information about when to report, or how to help someone who ne
 
 **Note:** The reporting party does not need to be directly involved in a code of conduct violation incident. Please make a bystander report if you observe a potentially dangerous situation, someone in distress, or violations of these guidelines, even if the situation is not happening to you.
 
-# What Happens After a Report Is Filed
+## What Happens After a Report Is Filed
 
 After a member of the ESIIL DEI team takes your report, they will (if necessary) consult with the appropriate support people at CU. The ESIIL DEI team will respond with a status update within 5 business days.
 
@@ -174,7 +174,7 @@ In addition to the responses above, ESIIL responses may include but are not limi
 - Permanently banning a person from HYR-SENSE and ESIIL activities
 - Nothing, if the behavior is determined to not be a code of conduct violation
 
-Do you need more resources?
+## Do you need more resources?
 
 Please don’t hesitate to contact the ESIIL DEI lead, Susan Sullivan, if you have questions or concerns.
 
@@ -188,15 +188,16 @@ The CU Office of Victims Assistance (counseling limited to CU students/staff/fac
 
 National Crisis Hotlines
 
-How are we doing?
+## How are we doing?
 
 Despite our best intentions, in some cases we may not be living up to our ideals of a positive, supportive, inclusive, respectful and collaborative community. If you feel we could do better, we welcome your feedback. Comments, suggestions and praise are also very welcome!
 
-Acknowledgment
+## Acknowledgment
 
 By participating in this event, you agree to abide by this code of conduct and understand the consequences of violating it. We believe that a respectful and inclusive environment benefits all participants and leads to more creative and successful outcomes.
 
-Thank you for your cooperation in making HYR-SENSE a welcoming event for all. Have fun!
+**Thank you for your cooperation in making HYR-SENSE a welcoming event for all. Have fun!**
 
-This code of conduct was adapted from "Batchelor, R.L., Sullivan, S.M., Iglesias, V., Nagy, R.C., Parker, J.N., Stavros, E.N., Gold, A.U., Balch, J.K. 2024. ESIIL Code of Conduct and Inclusive Collaboration Guidelines. Environmental Data Science Innovation and Inclusion Lab (ESIIL). https://doi.org/10.25810/2rdy-c188"
+### Source
+This code of conduct was adapted from "Batchelor, R.L., Sullivan, S.M., Iglesias, V., Nagy, R.C., Parker, J.N., Stavros, E.N., Gold, A.U., Balch, J.K. 2024. *ESIIL Code of Conduct and Inclusive Collaboration Guidelines.* Environmental Data Science Innovation and Inclusion Lab (ESIIL). https://doi.org/10.25810/2rdy-c188"
 
