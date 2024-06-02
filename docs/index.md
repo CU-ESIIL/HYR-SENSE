@@ -1,8 +1,6 @@
 # HYR-SENSE: Hyperspectral and Thermal Remote Sensing for Environmental Justice
 ![](./assets/esiil_content/Hyrsense.jpeg)
 
-
-
 NASA-SBG and NSF-ESIIL "HYR-SENSE: Hyperspectral and Thermal Remote Sensing for Environmental Justice" program. This training is funded by the NASA award #8ONSSC24KO328, and is subject to the NSF’s terms and conditions.
 
 ## Training details
@@ -17,9 +15,11 @@ Join [NASA Surface Biology and Geology](https://sbg.jpl.nasa.gov/) (SBG) and [ES
 Click [here](https://esiil.org/hyr-sense) for more details
 
 ## Agenda
-Coming Soon
+![](./assets/esiil_content/Hyrsense_Agenda.jpeg)
+
 ## Venue Information
 HYR-SENSE will be held at the University of Colorado Boulder East Campus SEEC Building (4001 Discovery Dr, Boulder, CO 80303). 
+
 ### Explore Boulder Like a Local!
 Want to get out to explore while you’re here? [This website](https://www.bouldercoloradousa.com/things-to-do/) has lots of information on things to do in Boulder, such as shopping, restaurants, nightlife, and much more!
 
