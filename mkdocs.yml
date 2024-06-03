@@ -18,6 +18,8 @@ nav:
           - Github basics: resources/github_basics.md
           - Cyverse basics: resources/cyverse_basics.md
           - Cyverse hacks: resources/cyverse_hacks.md
+          - Playing with GitHub: resources/github_collaboration.md
+          - Playing with Python in ESIIL-Cyverse Cloud: resources/python_basics.md
   - In-person Event agenda: resources/hyr-sense_agenda.md
   - Resources:
        - Code of Conduct: resources/code-of-conduct.md
