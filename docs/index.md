@@ -1,7 +1,7 @@
 # HYR-SENSE: Hyperspectral and Thermal Remote Sensing for Environmental Justice
 ![](./assets/esiil_content/Hyrsense.jpeg)
 
-NASA-SBG and NSF-ESIIL "HYR-SENSE: Hyperspectral and Thermal Remote Sensing for Environmental Justice" program. This training is funded by the NASA award #8ONSSC24KO328, and is subject to the NSF’s terms and conditions.
+NASA-SBG and NSF-ESIIL "HYR-SENSE: Hyperspectral and Thermal Remote Sensing for Environmental Justice" program. This training is funded by the NASA award #8ONSSC24KO328, and is subject to NASA's and NSF’s terms and conditions.
 
 ## Training details
 Join [NASA Surface Biology and Geology](https://sbg.jpl.nasa.gov/) (SBG) and [ESIIL](https://esiil.org/) in Boulder, Colorado this summer for HYR-SENSE: Hyperspectral and Thermal Remote Sensing for Environmental Justice. Participants will gain hands-on experience with hyperspectral and thermal imaging remote sensing technology and its applications for environmental justice issues. 
