@@ -1,4 +1,4 @@
-# Other resources:
+# Other Training Resources
 
 ### Earth Lab's Earth Data Science Free Online Tutorials
 
