@@ -6,15 +6,15 @@ The **HYR-SENSE program** will follow all aspects of the ESIIL Code of Conduct (
 
 **All community members and collaborators are responsible for creating this culture, embodying our values, welcoming diverse perspectives and ways of knowing, creating safe inclusive spaces, and conducting ethical science as guided by FAIR (Findable, Accessible, Interoperable, Reusable) and CARE (Collective Benefit, Authority to Control, Responsibility, and Ethics) principles for scientific and Indigenous data management, governance, and stewardship.**
 
-### Our values
+## Our values
 
 ESIIL’s vision is grounded in the conviction that innovation and breakthroughs in environmental data science will be precipitated by a diverse, collaborative, curious, and inclusive research community empowered by open data and infrastructure, cross-sector and community partnerships, team science, and engaged learning.
 
 As such, our core values center people through inclusion, kindness, respect, collaboration, and genuine relationships. They also center innovation, driven by collaborative, cross-sector science and synthesis, open, accessible data and tools, and fun, diverse teams. Finally, they center learning, propelled by curiosity and accessible, inclusive training, and education opportunities.
 
-### When and how to use these guidelines
+## When and how to use these guidelines
 
-These guidelines outline behavior expectations for ESIIL community members. Your participation in the ESIIL network is contingent upon following these guidelines in all ESIIL activities, including, but not limited to, participating in meetings, webinars, hackathons, working groups, hosted or funded by ESIIL, as well as email lists and online forums such as GitHub, Slack, and Twitter. These guidelines have been adapted from those of the International Arctic Research Policy Committee, the Geological Society of America, the American Geophysical Union, the University Corporation for Atmospheric Research, The Carpentries, and others. We encourage other organizations to adapt these guidelines for use in their own meetings.
+These guidelines outline behavior expectations for ESIIL and NASA-ESIIL HYR-SENSE community members and collaborators. Your participation in the ESIIL network is contingent upon following these guidelines in all ESIIL activities, including, but not limited to, participating in meetings, webinars, hackathons, working groups, hosted or funded by ESIIL, as well as email lists and online forums such as GitHub, Slack, and Twitter. These guidelines have been adapted from those of the International Arctic Research Policy Committee, the Geological Society of America, the American Geophysical Union, the University Corporation for Atmospheric Research, The Carpentries, and others. We encourage other organizations to adapt these guidelines for use in their own meetings.
 
 **Note:** HYR-SENSE breakout groups are encouraged to discuss these guidelines and what they mean to them, and will have the opportunity to add to them to specifically support and empower their team. Collaborative and behavior commitments complement data use, management, authorship, and access plans that commit to CARE and FAIR principles.
 
