@@ -16,8 +16,6 @@ Publication and other materials produced for and from HYR-SENSE should be deposi
 * Sharing through an external, community-accepted repository (e.g., [Zenodo](https://zenodo.org/) or [arXiv](https://arxiv.org/)). This option is recommended for those without a NASA identity.
 
 ## References
-This Guideline was created by Cibele Amaral and adapted from:
-
 Batchelor, R.L. et al 2024. *ESIIL Code of Conduct and Inclusive Collaboration Guidelines.* Environmental Data Science Innovation and Inclusion Lab (ESIIL). https://doi.org/10.25810/2rdy-c188
 
 NASA OSS Guidance: *Science Events*. Available at https://github.com/nasa/smd-open-science-guidelines/blob/main/OSS_Guidance/Science_Events.md.
