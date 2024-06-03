@@ -1,7 +1,7 @@
 # HYR-SENSE: Hyperspectral and Thermal Remote Sensing for Environmental Justice
 ![](./assets/esiil_content/Hyrsense.jpeg)
 
-NASA-SBG and NSF-ESIIL "HYR-SENSE: Hyperspectral and Thermal Remote Sensing for Environmental Justice" program. This training is funded by the NASA award #8ONSSC24KO328, and is subject to the NSF’s terms and conditions.
+NASA-SBG and NSF-ESIIL "HYR-SENSE: Hyperspectral and Thermal Remote Sensing for Environmental Justice" program. This training is funded by the NASA award #8ONSSC24KO328, and is subject to NASA's and NSF’s terms and conditions.
 
 ## Training details
 Join [NASA Surface Biology and Geology](https://sbg.jpl.nasa.gov/) (SBG) and [ESIIL](https://esiil.org/) in Boulder, Colorado this summer for HYR-SENSE: Hyperspectral and Thermal Remote Sensing for Environmental Justice. Participants will gain hands-on experience with hyperspectral and thermal imaging remote sensing technology and its applications for environmental justice issues. 
@@ -18,7 +18,7 @@ Click [here](https://esiil.org/hyr-sense) for more details
 ![](./assets/esiil_content/Hyrsense_Agenda.png) 
 
 ## Venue Information
-HYR-SENSE will be held at the University of Colorado Boulder. On June 10-12, 2024 at East Campus SEEC Building (4001 Discovery Dr, Boulder, CO 80303 - Room S228). On June 13, 2024, at Mountain Research Station (818 County Road 116 Nederland, CO 80466 - Lodge). Transportation to the Research Station will depart from SEEC at 9 am.
+HYR-SENSE will be held at the University of Colorado Boulder, Boulder, CO. On June 10-12, 2024, the workshop will occur at the East Campus SEEC Building (4001 Discovery Dr, Boulder, CO 80303 — Room S228). On June 13, 2024, a retreat will be held at the CU Boulder Mountain Research Station (818 County Road 116 Nederland, CO 80466 — Lodge). Transportation to the Research Station will depart from SEEC at 9 a.m.
 
 ### Explore Boulder Like a Local!
 Want to get out to explore while you’re here? [This website](https://www.bouldercoloradousa.com/things-to-do/) has lots of information on things to do in Boulder, such as shopping, restaurants, nightlife, and much more!

@@ -18,11 +18,13 @@ nav:
           - Github basics: resources/github_basics.md
           - Cyverse basics: resources/cyverse_basics.md
           - Cyverse hacks: resources/cyverse_hacks.md
+          - Playing with GitHub: resources/github_collaboration.md
+          - Playing with Python in ESIIL-Cyverse Cloud: resources/python_basics.md
   - In-person Event agenda: resources/hyr-sense_agenda.md
   - Resources:
        - Code of Conduct: resources/code-of-conduct.md
        - Material Sharing: resources/HYR-SENSE_Material_Sharing.md
-       - Other training resources: resources/other_resources.md
+       - Other Training Resources: resources/hyr-sense_other_resources.md
   - Facilitators: resources/facilitators_bios.md
   - Participants: resources/participants_bios.md
   - Speakers/ Panelists: resources/speakers_bios.md
