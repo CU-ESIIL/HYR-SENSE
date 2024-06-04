@@ -2,4 +2,5 @@
 
 | Name | Organization | GitHub username | Personal portfolio |
 | --- | --- | --- | --- |
-|  |  |  |
+| Jason Tinant | OLC | cjtinant | NA |
+|  |  |  |  |
