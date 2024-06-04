@@ -3,4 +3,4 @@
 | Name | Organization | GitHub username | Personal portfolio |
 |  |  |  |
 |  |  |  |
-Cynthia sanders|College of the Muscogee Nation| CynthiaSandersCMN|NA|
+Cynthia Sanders|College of the Muscogee Nation| CynthiaSandersCMN|NA|
