@@ -7,6 +7,7 @@ A few weeks ago, you made a [GitHub account](https://github.com/) and published 
   - Identify some common git/GitHub pitfalls to avoid
 
 Today's agenda is:
+
 | Time | Activity |
 | --- | --- |
 | 10:00-10:10 | Welcome, and send us your|
