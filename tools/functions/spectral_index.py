@@ -1,6 +1,6 @@
 # spectral_index.py
 
-def normalized_diff(input_xarray = ds_geo, band1=650, band2=850):
+def normalized_diff(input_xarray, band1=650, band2=850):
     """
     This function takes an input xarray image and calculates a NDVI image based on the selected bands.  
     The assumption is the input image is an EMIT image in xarray format prepared using the emit_xarray() 
