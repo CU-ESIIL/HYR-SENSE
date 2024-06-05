@@ -18,3 +18,11 @@ def normalized_diff(input_xarray, band1=650, band2=850):
     ndiff_image = (reflb2-reflb1)/(reflb2+reflb1)
     
     return(ndiff_image)
+
+
+def pri2(input_xarray, band1=531, band2=570):
+    reflb1 = input_xarray.sel(wavelengths=band1, method='nearest')
+    reflb2 = input_xarray.sel(wavelengths=band2, method='nearest')
+    pri = (reflb1-reflb2)/(reflb1+reflb2)
+    pri2_output = (pri+1)/2
+    return(pri2_output)
