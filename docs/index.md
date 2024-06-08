@@ -39,7 +39,7 @@ We would like you to bring a laptop/notebook that has the ability to connect to 
 Access wireless service on campus by selecting UCB Guest Wireless from your available Wi-Fi network options and accepting the terms and conditions upon opening your web browser. You will be prompted to re-accept these terms and conditions periodically. If you encounter difficulty accessing the Internet, call 303-735-HELP (4357) or email help@colorado.edu for assistance during their business hours. Check firewalls or security settings on your computer that could possibly complicate accessing the campus Wi-Fi system before you arrive.
 
 ## Hotel Information
-Rooms have been reserved for HYR-SENSE participants at [Homewood Suites](https://www.hilton.com/en/hotels/boucohw-homewood-suites-boulder/), located 1 mile from SEEC. The hotel provides a shuttle within a 5 mile radius between 8-4 pm, a daily hot breakfast buffet, and parking. The hotel is just steps from a shopping center with local dining options and a grocery store. 
+Rooms have been reserved from June 9-14th for HYR-SENSE participants at [Homewood Suites](https://www.hilton.com/en/hotels/boucohw-homewood-suites-boulder/), located 1 mile from SEEC. The hotel provides a shuttle within a 5 mile radius between 8-4 pm, a daily hot breakfast buffet, and parking. The hotel is just steps from a shopping center with local dining options and a grocery store. 
 
 ## Transportation
 ### Ground Transportation
