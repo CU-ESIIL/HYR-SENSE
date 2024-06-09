@@ -1,5 +1,3 @@
-**Check out our HYR-SENSE facilitators!**
-
 | ![Cibele Amaral](../assets/hyrsense_facilitators/Cibele_Amaral.png) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | **Cibele Amaral**<br>I was born and raised in São Paulo, Brazil. Currently, I am serving as the Interim ESIIL and Earth Lab Analytics Director at CIRES, CU Boulder. I oversee the HYR-SENSE program and the associated ESIIL team efforts. My research aims to understand ecological processes across scales and support nature conservation and human well-being using advanced remote sensing technologies and analytics. I am also interested in developing open-source tools and cyberinfrastructure solutions to serve different communities’ needs and interests. When not working, I enjoy running, hiking, and cooking for my family.|
 | :---: | :--- |
 
