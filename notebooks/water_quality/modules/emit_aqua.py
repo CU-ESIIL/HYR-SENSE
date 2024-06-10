@@ -1,7 +1,7 @@
+# Pre-Processing
 import xarray as xr
 import numpy as np
 
-# Pre-Processing
 def mask_aqua(ds):
     
     # EMIT Mask Python script for Aquatic Interest
@@ -74,8 +74,8 @@ def chlor_a(ds, algorithm='moses3'):
 def turbidity(ds, algorithm='dogliotii'):
 
     if algorithm == 'dogliotti':
-        band_op1 = ds.Rrs.sel(wavelengths=645, method='nearest')
-        band_op2 = ds.Rrs.sel(wavelengths=859, method='nearest')
+        band_op1 = ds.refletance.sel(wavelengths=645, method='nearest')
+        band_op2 = ds.reflectance.sel(wavelengths=859, method='nearest')
 
         At_op1 = 228.1
         Ct_op1 = 3078.9
@@ -123,12 +123,18 @@ def CIcyano(ds, low=665, center=681, high=709):
     return -SS, counts
 
 
-def avw(ds):
-    
-    
-    return avw
+def ndci(ds, b1=665, b2=708):
+
+    refl_low = ds.Rrs.sel(wavelengths=b1, method='nearest')
+    refl_high = ds.Rrs.sel(wavelengths=b2, method='nearest')
+
+    return (refl_high - refl_low)/(refl_high+refl_low)
 
 
-def qwip(ds):
-    
-    return qwip
+def ndti(ds, b1=561, b2=655):
+
+    refl_low = ds.reflectance.sel(wavelengths=b1, method='nearest')
+    refl_high = ds.reflectance.sel(wavelengths=b2, method='nearest')
+
+    return (refl_high - refl_low)/(refl_high+refl_low)
+
