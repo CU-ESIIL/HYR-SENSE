@@ -4,4 +4,4 @@ These notebooks were modified from the [NASA VITALS repository](https://github.c
 
 They demonstrate how to find spatially concurrent [NEON Directional Surface Reflectance Data](https://data.neonscience.org/data-products/DP3.30006.001) and EMIT data at the Niwot Ridge site, where HYR-SENSE participants will go for the 4th day of the workshop. 
 
-[Setup instructions](https://github.com/bridgethass/VITALS/blob/main/setup/setup_instructions.md) are the same as for the VITAL repo.
+[Setup instructions](https://github.com/bridgethass/VITALS/blob/main/setup/setup_instructions.md) are the same as for the VITALS repo. These notebooks should work with the HYR-SENSE workshop environment.
